@@ -1,0 +1,332 @@
+[
+    {
+        "question": "list all the technical skills",
+        "answer": "Java, Python, Oracle, MySQL, MongoDB, Statistics, ML, DL, Image Processing, Matplotlib, Seaborn, Plotly, Power BI, Tableau, NumPy, Pandas, Scikit-learn, OpenCV, NLTK, Jupyter, Colab, Kaggle, VS Code, PyCharm, GitHub, TensorFlow, Keras, PyTorch, HTML, CSS, JavaScript, Flask, Django (Learning)",
+        "is_error": false,
+        "timestamp": "2025-05-17T14:52:18.933114"
+    },
+    {
+        "question": "all about it",
+        "answer": "This is a resume for Kodi Mahender.  He is a highly motivated MCA graduate seeking a challenging role in data science, leveraging his skills in web development, machine learning, and Java.  His resume details his education (including MCA from Central University of Karnataka and BSc in Data Science from Osmania University), technical skills (covering programming languages, databases, data science tools and libraries, and web technologies), internships (in web development, machine learning, and Java development), projects (like a solid waste detection system using YOLOv11), achievements (in quizzes and Kabaddi), and extracurricular activities.",
+        "is_error": false,
+        "timestamp": "2025-05-17T14:52:37.063192"
+    },
+    {
+        "question": "All about.",
+        "answer": "The provided text is a resume for Kodi Mahender.  It details his education (MCA, BSc in Data Science, Intermediate, Class X), technical skills (programming languages, databases, data science tools and libraries, web technologies), internships (Web Development, Machine Learning, Java Development), projects (YOLOv11: Solid Waste Detection), achievements (Quiz, Kabaddi), and extracurricular activities (Convocation Volunteer, Quiz Committee).",
+        "is_error": false,
+        "timestamp": "2025-05-17T14:53:33.861871"
+    },
+    {
+        "question": "list of technical skills.",
+        "answer": "Languages: Java, Python\nDatabases: Oracle, MySQL, MongoDB\nData Science: Statistics, ML, DL, Image Processing\nAnalysis Tools: Matplotlib, Seaborn, Plotly, Power BI, Tableau\nLibraries: NumPy, Pandas, Scikit-learn, OpenCV, NLTK\nDev Tools: Jupyter, Colab, Kaggle, VS Code, PyCharm, GitHub\nDL Frameworks: TensorFlow, Keras, PyTorch\nWeb Tech: HTML, CSS, JavaScript, Flask, Django (Learning)",
+        "is_error": false,
+        "timestamp": "2025-05-17T14:55:47.748394"
+    },
+    {
+        "question": "List of all  technical skills.",
+        "answer": "Java, Python, Oracle, MySQL, MongoDB, Statistics, ML, DL, Image Processing, Matplotlib, Seaborn, Plotly, Power BI, Tableau, NumPy, Pandas, Scikit-learn, OpenCV, NLTK, Jupyter, Colab, Kaggle, VS Code, PyCharm, GitHub, TensorFlow, Keras, PyTorch, HTML, CSS, JavaScript, Flask, Django.",
+        "is_error": false,
+        "timestamp": "2025-05-17T14:57:28.358026"
+    },
+    {
+        "question": "Hi, hello. This is  mahender.",
+        "answer": "The provided text includes a resume for Kodi Mahender.  It does not contain a response to the greeting \"Hi, hello. This is Mahender.\"",
+        "is_error": false,
+        "timestamp": "2025-05-17T14:59:53.389780"
+    },
+    {
+        "question": "give the list projects and internships",
+        "answer": "Projects: YOLOv11: Solid Waste Detection (automated detection system using YOLOv11 for solid waste)\n\nInternships: Web Development Intern (2025), Machine Learning Intern (2025), Java Development Intern (2024)",
+        "is_error": false,
+        "timestamp": "2025-05-17T15:21:03.276409"
+    },
+    {
+        "question": "project and internships.",
+        "answer": "The provided text lists three internships: Web Development Intern (2025), Machine Learning Intern (2025), and Java Development Intern (2024).  It also lists one project: YOLOv11: Solid Waste Detection.",
+        "is_error": false,
+        "timestamp": "2025-05-17T15:21:41.473635"
+    },
+    {
+        "question": "List of all technical skills.",
+        "answer": "Java, Python, Oracle, MySQL, MongoDB, Statistics, ML, DL, Image Processing, Matplotlib, Seaborn, Plotly, Power BI, Tableau, NumPy, Pandas, Scikit-learn, OpenCV, NLTK, Jupyter, Colab, Kaggle, VS Code, PyCharm, GitHub, TensorFlow, Keras, PyTorch, HTML, CSS, JavaScript, Flask, Django.",
+        "is_error": false,
+        "timestamp": "2025-05-17T15:23:15.261479"
+    },
+    {
+        "question": "list of all the sections",
+        "answer": "Based on the provided text, the sections are:\n\n4.1 Backbone\n4.1.1 Convolutional Layers\n4.1.2 SPPF and C2PSA\n4.2 Neck\n4.2.1 C3k2 Block\n4.2.2 Attention Mechanism\n4.3 Head\n4.3.1 C3k2 Block\n4.3.2 CBS Blocks\n4.3.3 Final Convolutional Layers and Detect Layer\n5 Key Computer Vision Tasks Supported by YOLO11",
+        "is_error": false,
+        "timestamp": "2025-05-17T15:25:12.968588"
+    },
+    {
+        "question": "what is abstract",
+        "answer": "This question cannot be answered from the given source.  The provided text focuses on the architecture of YOLOv11, a computer vision model, and does not define the word \"abstract\".",
+        "is_error": false,
+        "timestamp": "2025-05-17T15:25:34.644777"
+    },
+    {
+        "question": "give the information present in abstract",
+        "answer": "The abstract is not provided in the given text.  Therefore, the information present in the abstract is not available.",
+        "is_error": false,
+        "timestamp": "2025-05-17T15:26:19.487076"
+    },
+    {
+        "question": "give the list of all the sections",
+        "answer": "Based on the provided text, the sections are: 4.1 Backbone, 4.1.1 Convolutional Layers, 4.1.2 SPPF and C2PSA, 4.2 Neck, 4.2.1 C3k2 Block, 4.2.2 Attention Mechanism, 4.3 Head, 4.3.1 C3k2 Block, 4.3.2 CBS Blocks, 4.3.3 Final Convolutional Layers and Detect Layer, and 5 Key Computer Vision Tasks Supported by YOLO11.",
+        "is_error": false,
+        "timestamp": "2025-05-17T15:26:41.191531"
+    },
+    {
+        "question": "all about it",
+        "answer": "YOLOv11 is the latest iteration in the YOLO (You Only Look Once) series of object detection models.  Architectural innovations include the C3k2 (Cross Stage Partial with kernel size 2) block, SPPF (Spatial Pyramid Pooling - Fast), and C2PSA (Convolutional block with Parallel Spatial Attention) components, which enhance feature extraction.  YOLOv11 has expanded capabilities across object detection, instance segmentation, pose estimation, and oriented object detection (OBB).  Performance improvements are seen in mean Average Precision (mAP) and computational efficiency compared to previous versions, balancing parameter count and accuracy.  The model is available in various sizes (nano to extra-large), suitable for different applications and computing environments.",
+        "is_error": false,
+        "timestamp": "2025-05-17T15:27:00.548049"
+    },
+    {
+        "question": "give the list of all sections present in document",
+        "answer": "Based on the provided text, the sections are:\n\nTITLE OF PROJECT REPORT\nCERTIFICATE\nACKNOWLEDGEMENT\nTABLE OF CONTENTS\nABSTRACT\nLIST OF TABLES\nLIST OF FIGURES\nLIST OF SYMBOLS AND ABBREVIATIONS\nINTRODUCTION\nLITERATURE REVIEW\nMETHODOLOGY\nEXPERIMENTATION\nRESULT AND DISCUSSION\nCONCLUSION\nFUTURE SCOPE\nREFERENCES",
+        "is_error": false,
+        "timestamp": "2025-05-17T15:28:11.134899"
+    },
+    {
+        "question": "give the list of table of content",
+        "answer": "ABSTRACT\nLIST OF TABLES\nLIST OF FIGURES\nLIST OF SYMBOLS AND ABBREVIATIONS\nINTRODUCTION\nLITERATURE REVIEW\nMETHODOLOGY\nEXPERIMENTATION\nRESULT AND DISCUSSION\nCONCLUSION\nFUTURE SCOPE\nREFERENCES",
+        "is_error": false,
+        "timestamp": "2025-05-17T15:28:50.257409"
+    },
+    {
+        "question": "give the technical skills",
+        "answer": "Java, Python, Oracle, MySQL, MongoDB, Statistics, ML, DL, Image Processing, Matplotlib, Seaborn, Plotly, Power BI, Tableau, NumPy, Pandas, Scikit-learn, OpenCV, NLTK, Jupyter, Colab, Kaggle, VS Code, PyCharm, GitHub, TensorFlow, Keras, PyTorch, HTML, CSS, JavaScript, Flask, Django.",
+        "is_error": false,
+        "timestamp": "2025-05-19T18:49:19.133458"
+    },
+    {
+        "question": "All about it.",
+        "answer": "Kodi Mahender is a highly motivated and skilled MCA graduate seeking a challenging role in data science.  He has a strong foundation in web development, machine learning, and Java.  His education includes an MCA from Central University of Karnataka (2023-2025), a B.Sc in Data Science from Osmania University Hyderabad (2020-2023), and earlier secondary education.  His technical skills encompass various programming languages (Java, Python), databases (Oracle, MySQL, MongoDB), data science tools and libraries (Matplotlib, Seaborn, Plotly, Power BI, Tableau, NumPy, Pandas, Scikit-learn, OpenCV, NLTK), deep learning frameworks (TensorFlow, Keras, PyTorch), and web technologies (HTML, CSS, JavaScript, Flask, Django). He has experience in internships focused on web development, machine learning, and Java development.  He also has a project listed, \"YOLOv11: Solid Waste Detection,\" and lists achievements in a quiz competition and Kabaddi.  His extracurricular activities include volunteering at a convocation and participation in a quiz committee.  Contact information is provided.",
+        "is_error": false,
+        "timestamp": "2025-05-19T18:56:16.557250"
+    },
+    {
+        "question": "who is the person resume?",
+        "answer": "The resume is for Kodi Mahender.",
+        "is_error": false,
+        "timestamp": "2025-05-19T19:09:16.619678"
+    },
+    {
+        "question": "Give give a list of technical skills.",
+        "answer": "Here's a list of technical skills from the provided text:\n\n**Languages:** Java, Python\n\n**Databases:** Oracle, MySQL, MongoDB\n\n**Data Science:** Statistics, ML, DL, Image Processing\n\n**Analysis Tools:** Matplotlib, Seaborn, Plotly, Power BI, Tableau\n\n**Libraries:** NumPy, Pandas, Scikit-learn, OpenCV, NLTK\n\n**Dev Tools:** Jupyter, Colab, Kaggle, VS Code, PyCharm, GitHub\n\n**DL Frameworks:** TensorFlow, Keras, PyTorch\n\n**Web Tech:** HTML, CSS, JavaScript, Flask, Django (Learning)",
+        "is_error": false,
+        "timestamp": "2025-05-19T19:10:00.142401"
+    },
+    {
+        "question": "summarize, the PDF",
+        "answer": "Kodi Mahender is a highly motivated MCA graduate seeking a challenging role in data science.  His skills include web development, machine learning, and Java.  He has a strong academic record, including an MCA from Central University of Karnataka and a B.Sc. in Data Science from Osmania University.  His technical skills encompass various programming languages (Java, Python), databases (Oracle, MySQL, MongoDB), data science tools and libraries (Matplotlib, Seaborn, NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch), and web technologies (HTML, CSS, JavaScript, Flask).  He has experience in internships focused on web development, machine learning, and Java development, and has completed a project involving solid waste detection using YOLOv11.  He also lists extracurricular activities and achievements.",
+        "is_error": false,
+        "timestamp": "2025-05-19T19:10:40.199363"
+    },
+    {
+        "question": "Give the list  list of sections.",
+        "answer": "Based on the provided text, the sections are: 5.4 Challenges Encountered and Solutions, 5.5 Discussion of Specific Scenarios, 5.3 User Experience, 5.2 Performance Observations, 5.2.1 Processing Speed, 5.2.2 Answer Accuracy and Relevance, and 3.2 Component Breakdown, 3.2.1 User Interface (Streamlit), and 3.2.2 Document Ingestion and Parsing.",
+        "is_error": false,
+        "timestamp": "2025-05-19T19:12:00.748613"
+    },
+    {
+        "question": "give all the sections present, in pdf",
+        "answer": "Based on the provided text, the following sections are present in the PDF:\n\n* 3.2 Component Breakdown\n    * 3.2.1 User Interface (Streamlit)\n    * 3.2.2 Document Ingestion and Parsing\n    * 3.2.3 Text Chunking\n    * 3.2.4 Embedding Generation\n* 5.3 User Experience\n* 5.4 Challenges Encountered and Solutions\n* 5.5 Discussion of Specific Scenarios",
+        "is_error": false,
+        "timestamp": "2025-05-19T19:12:37.532691"
+    },
+    {
+        "question": "give the summary of pdf",
+        "answer": "This report details RAGpdf, a system for interacting with PDF documents.  Section 2 reviews related work in information retrieval, large language models, and question answering systems. Section 3 describes RAGpdf's architecture and design. Section 4 covers implementation specifics. Section 5 presents performance results, including processing speed (15-30 seconds for a 9-page document), and high accuracy and relevance of answers, with reduced hallucination due to the system's reliance on provided context.  Section 6 concludes and suggests future work, such as integrating with a persistent vector database and enabling multi-document Q&A.  RAGpdf's capabilities include extracting specific sections (e.g., the abstract) and summarizing them using an LLM.  Limitations include challenges with complex layouts and OCR dependency for scanned PDFs.",
+        "is_error": false,
+        "timestamp": "2025-05-19T19:13:10.137999"
+    },
+    {
+        "question": "Give the details of the image.",
+        "answer": "The image, \"pythonintern.jpg,\" is a recruitment advertisement for a Python/RPA Developer internship from DROIDAL.  It features a white background with light blue accents.  The main text includes the headline \"WE ARE HIRING FRESHERS!\", a description of the 3-month internship (with potential for placement), requirements (Python and JavaScript proficiency, problem-solving skills, willingness to learn), contact information (hr@droidal.com or deva@droidal.com), and a call to action to submit a resume.  There's also a \"20 Positions!\" callout.  A search icon precedes \"RPA/PYTHON DEVELOPER\" which is highlighted in a button, as is \"20 Positions!\".  A photo shows diverse young professionals in a modern office setting.  The DROIDAL logo is in the upper right corner.  The overall design is clean and professional.",
+        "is_error": false,
+        "timestamp": "2025-05-19T19:15:16.568143"
+    },
+    {
+        "question": "What are the sections present in it?",
+        "answer": "The provided text outlines four steps in the methodology: i) Image Generation using Large Language Model and Dataset Preparation; ii) Training YOLOv12 object detection model for detecting apples in synthetic images; iii) Performance Metrics Evaluation and Comparison with YOLO11 and YOLOv10; and iv) Testing with real-field images collected by a machine vision sensor.  Additionally, section 2.1 details LLM-based Data Generation and Preparation, and section 2.2 describes Training YOLOv12 Object Detection Model.",
+        "is_error": false,
+        "timestamp": "2025-05-19T19:16:13.495264"
+    },
+    {
+        "question": "Summarize the document.",
+        "answer": "This study uses OpenAI's DALL-E 2 to generate a synthetic dataset of apple orchard images.  Initially, 501 images were generated, with 20 unrealistic images discarded, leaving 489 images.  These images were manually annotated with bounding boxes around 8,590 apples using Makesense.ai.  The images were then standardized to 640x640 pixels and augmented.  This dataset was used to train four configurations of a YOLOv12 object detection model. The training process involved 200 epochs, a batch size of 8, and utilized a high-performance workstation.  The study compares the performance of the YOLOv12 models with YOLOv11 and YOLOv10 models using the same synthetic dataset and then tests the models on real-world images collected from commercial apple orchards.  The goal is to assess the performance of LLM-generated synthetic datasets for training object detection models and to evaluate their practical applicability in real agricultural settings.",
+        "is_error": false,
+        "timestamp": "2025-05-19T19:17:00.057557"
+    },
+    {
+        "question": "what is abst",
+        "answer": "In the provided text, 20 unrealistic images, described as \"abstract or apple-free scenes,\" were discarded from a dataset of synthetically generated images.  This implies that \"abst\" likely refers to abstract images.",
+        "is_error": false,
+        "timestamp": "2025-05-19T19:17:26.842325"
+    },
+    {
+        "question": "what is abstract",
+        "answer": "20 unrealistic outputs (e.g., abstract or apple-free scenes) were discarded.",
+        "is_error": false,
+        "timestamp": "2025-05-19T19:18:05.214936"
+    },
+    {
+        "question": "Explain the 1st paragraph",
+        "answer": "This study built upon prior work demonstrating the feasibility of training YOLOv10 and YOLOv11 models using synthetic datasets generated by OpenAI’s DALL-E.  For this research, a synthetic dataset of 489 manually annotated images (1024x1024 pixels each) was created to train the YOLOv12 object detection model.  The methodology involved four steps:  1) image generation using a Large Language Model and dataset preparation; 2) training the YOLOv12 object detection model on synthetic images to detect apples; 3) evaluating performance metrics and comparing them to YOLOv11 and YOLOv10; and 4) testing with real-field images collected by a machine vision sensor.",
+        "is_error": false,
+        "timestamp": "2025-05-19T19:21:20.202907"
+    },
+    {
+        "question": "what second paragraph explain",
+        "answer": "The second paragraph (2.1 LLM-based Data Generation and Preparation) explains the process of generating synthetic orchard images using OpenAI's DALL-E 2.  This involved a hierarchical text-conditional strategy with three stages:  (1) converting text prompts into CLIP image embeddings; (2) transforming these embeddings into image embeddings using a Transformer model; and (3) refining these embeddings into high-resolution images (1024x1024 pixels) using a diffusion-based decoder.  The process started with generating 501 images, then filtering out 20 unrealistic ones, leaving 489 images which were manually annotated with bounding boxes for 8,590 apples.  Finally, the images were standardized to 640x640 resolution and augmented with flips and rotations before being uploaded to Roboflow in YOLOv12 data format.",
+        "is_error": false,
+        "timestamp": "2025-05-19T19:23:01.219701"
+    },
+    {
+        "question": "give the list of all sections present in it",
+        "answer": "The provided text does not contain a list of sections.  The text is divided into subsections indicated by numbers (e.g., 2.2 Training YOLOv12 Object Detection Model) and bullet points, but these are not formally labeled sections.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:24:33.753027"
+    },
+    {
+        "question": "what is abstract",
+        "answer": "Based on the provided text, \"abstract\" is used to describe unrealistic outputs, such as scenes that do not contain apples, in a dataset of images depicting apples in orchards.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:25:04.173664"
+    },
+    {
+        "question": "all about it",
+        "answer": "The provided text focuses on apple detection in orchards using deep learning models.  It discusses challenges like high costs and limited dataset diversity associated with traditional field imaging.  The text then details several advancements in apple detection methodologies, including the development of lightweight models like Faster-YOLO-AP for speed and accuracy on edge devices, semi-supervised approaches (S3AD) to improve small apple detection, and the integration of ShuffleNetv2 and Ghost modules to enhance performance.  The creation of a synthetic dataset using DALL-E 2, its annotation using Makesense.ai, and the training of a YOLOv12 object detection model are also described.  The process involves image generation, quality filtering, manual annotation, image standardization and augmentation, and training with specific parameters (epochs, input size, batch size) on a high-performance workstation.  Finally, the text mentions other approaches like attention-enhanced Faster R-CNN and semi-supervised frameworks to address challenges such as false positives and small object detection.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:25:21.462771"
+    },
+    {
+        "question": "what is abst",
+        "answer": "Based on the provided text, \"abst\" refers to abstract or apple-free scenes that were considered unrealistic and discarded during quality filtering of generated images.  20 such images were removed from an initial set of 501.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:25:36.560722"
+    },
+    {
+        "question": "all about it",
+        "answer": "No document context available. Please process a document first.",
+        "is_error": true,
+        "timestamp": "2025-05-20T19:26:11.805313"
+    },
+    {
+        "question": "give the list of sections present in it",
+        "answer": "The provided text outlines a methodology with four steps: i) Image Generation using Large Language Model and Dataset Preparation; ii) Training YOLOv12 object detection model for detecting apples in synthetic images; iii) Performance Metrics Evaluation and Comparison with YOLO11 and YOLOv10; and iv) Testing with real-field images collected by a machine vision sensor.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:26:52.600050"
+    },
+    {
+        "question": "what is abstract",
+        "answer": "20 unrealistic outputs (e.g., abstract or apple-free scenes) were discarded.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:27:12.067256"
+    },
+    {
+        "question": "give the list of sections present in it",
+        "answer": "No document context available. Please process a document first.",
+        "is_error": true,
+        "timestamp": "2025-05-20T19:27:50.057502"
+    },
+    {
+        "question": "list of sections present in it",
+        "answer": "Based on the provided text, the sections are:\n\ni) Image Generation using Large Language Model and Dataset Preparation;\nii) Training YOLOv12 object detection model for detecting apples in synthetic images;\niii) Performance Metrics Evaluation and Comparison with YOLO11 and YOLOv10; and\niv) Testing with real-field images collected by a machine vision sensor.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:28:20.740912"
+    },
+    {
+        "question": "what is abstract",
+        "answer": "20 unrealistic outputs, such as abstract or apple-free scenes, were discarded from an initial set of 501 images.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:28:40.428840"
+    },
+    {
+        "question": "what is abstract",
+        "answer": "20 unrealistic outputs, such as abstract or apple-free scenes, were discarded from an initial set of 501 images.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:29:41.375695"
+    },
+    {
+        "question": "give the list of sections in it",
+        "answer": "The provided text outlines a methodology summarized in four steps: i) Image Generation using Large Language Model and Dataset Preparation; ii) Training YOLOv12 object detection model for detecting apples in synthetic images; iii) Performance Metrics Evaluation and Comparison with YOLO11 and YOLOv10; and iv) Testing with real-field images collected by a machine vision sensor.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:29:57.092099"
+    },
+    {
+        "question": "give the first paragraph of the document",
+        "answer": "Recent advances in generative AI, particularly with Large Language Models (LLMs) such as OpenAI’s DALL-E, have transformed synthetic image generation. By converting simple textual prompts (e.g., “occluded apples in orchards”) into photorealistic images, LLMs enable the creation of scalable, annotated datasets that faithfully replicate real-world complexities without the need for physical data collection Sapkota et al. (2024c). This advancement addresses critical limitations imposed by traditional sensor-based imaging systems.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:30:37.776000"
+    },
+    {
+        "question": "give the first paragraph of the document",
+        "answer": "Recent advances in generative AI, particularly with Large Language Models (LLMs) such as OpenAI’s DALL-E, have transformed synthetic image generation. By converting simple textual prompts (e.g., “occluded apples in orchards”) into photorealistic images, LLMs enable the creation of scalable, annotated datasets that faithfully replicate real-world complexities without the need for physical data collection Sapkota et al. (2024c). This advancement addresses critical limitations imposed by traditional sensor-based imaging systems.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:31:04.156821"
+    },
+    {
+        "question": "give the first paragraph of the document",
+        "answer": "Recent advances in generative AI, particularly with Large Language Models (LLMs) such as OpenAI’s DALL-E, have transformed synthetic image generation. By converting simple textual prompts (e.g., “occluded apples in orchards”) into photorealistic images, LLMs enable the creation of scalable, annotated datasets that faithfully replicate real-world complexities without the need for physical data collection Sapkota et al. (2024c). This advancement addresses critical limitations imposed by traditional sensor-based imaging systems.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:31:39.155251"
+    },
+    {
+        "question": "Explain the 1st paragraph",
+        "answer": "This study builds upon prior work demonstrating the feasibility of training YOLOv10 and YOLOv11 models using synthetic datasets generated by OpenAI's DALL-E.  For this research, a synthetic dataset of 489 manually annotated images (1024x1024 pixels each) was created to train the YOLOv12 object detection model.  The methodology involved four steps:  1) image generation using a Large Language Model and dataset preparation; 2) training the YOLOv12 object detection model on synthetic images to detect apples; 3) evaluating performance metrics and comparing them to YOLOv11 and YOLOv10; and 4) testing with real-world images collected by a machine vision sensor.",
+        "is_error": false,
+        "timestamp": "2025-05-20T19:32:15.417335"
+    },
+    {
+        "question": "all about it",
+        "answer": "The image is a job advertisement for a 3-month internship as an RPA/Python Developer at Droidal.  There are 20 positions available.  Requirements include proficiency in Python and JavaScript, strong problem-solving skills, and a willingness to adapt to new technologies.  The advertisement includes contact information (email addresses) for applicants to submit their resumes/CVs.  The advertisement features a photo of employees in a modern office setting.",
+        "is_error": false,
+        "timestamp": "2025-05-25T20:02:09.209356"
+    },
+    {
+        "question": "All about it.",
+        "answer": "The image is a job advertisement for a 3-month internship as an RPA/Python Developer at Droidal.  There are 20 positions available.  Requirements include proficiency in Python and JavaScript, strong problem-solving skills, and a willingness to adapt to new technologies.  The advertisement includes contact information (email addresses) for applicants to submit their resumes/CVs.  The advertisement features a photo of employees in a modern office setting.",
+        "is_error": false,
+        "timestamp": "2025-05-25T20:02:27.476303"
+    },
+    {
+        "question": "Internship period.",
+        "answer": "The internship period is 3 months.",
+        "is_error": false,
+        "timestamp": "2025-05-25T20:03:56.085265"
+    },
+    {
+        "question": "all about it",
+        "answer": "The image is a recruitment advertisement for a 3-month RPA/Python Developer internship at DROIDAL.  Twenty positions are available, and the internship may lead to a permanent placement based on performance.  Applicants need proficiency in Python and JavaScript, strong problem-solving and analytical skills, and adaptability to new technologies.  Interested candidates should send their resumes to hr@droidal.com or deva@droidal.com.  The advertisement features a clean, modern design with teal accents and a photo of a diverse team in a modern office setting.",
+        "is_error": false,
+        "timestamp": "2025-05-27T14:42:05.527911"
+    },
+    {
+        "question": "All about it.",
+        "answer": "The image is a recruitment advertisement for a 3-month \"RPA/Python Developer\" internship at DROIDAL. Twenty positions are available, with potential for permanent placement based on performance.  Requirements include Python and JavaScript proficiency, strong problem-solving and analytical skills, and adaptability to new technologies.  Interested applicants should send their resumes to hr@droidal.com or deva@droidal.com.  The advertisement features a modern design with teal accents and a photo of a diverse team in a modern office setting.",
+        "is_error": false,
+        "timestamp": "2025-05-27T14:42:35.593889"
+    },
+    {
+        "question": "give me the links present in it",
+        "answer": "hr@droidal.com or deva@droidal.com",
+        "is_error": false,
+        "timestamp": "2025-05-27T14:44:33.590812"
+    },
+    {
+        "question": "All about it.",
+        "answer": "The image is a job advertisement from DROIDAL for 20 positions of RPA/Python Developers.  It's a 3-month internship with the possibility of placement based on performance.  Requirements include proficiency in Python and JavaScript, strong problem-solving and analytical skills, and a willingness to learn.  Resumes should be sent to hr@droidal.com or deva@droidal.com.  The advertisement highlights that they are hiring freshers.",
+        "is_error": false,
+        "timestamp": "2025-05-27T14:45:14.154745"
+    },
+    {
+        "question": "Period of internship.",
+        "answer": "The internship is a 3-month program.",
+        "is_error": false,
+        "timestamp": "2025-06-10T23:07:20.558825"
+    }
+]

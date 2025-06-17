@@ -1,0 +1,11 @@
+streamlit
+pyaudio
+google-cloud-speech
+python-dotenv
+PyMuPDF
+google-generativeai
+faiss-cpu # or faiss-gpu if you have a compatible GPU and CUDA setup
+numpy
+langchain
+python-docx
+Pillow
